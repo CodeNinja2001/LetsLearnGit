@@ -6,3 +6,5 @@ green
 yellow
 orange
 red
+git
+github
