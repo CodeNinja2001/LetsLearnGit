@@ -6,7 +6,11 @@ green
 yellow
 orange
 red
+//VCS
 git
 github
+//Frontend tools
 html
 css
+javascript
+react
