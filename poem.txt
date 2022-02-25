@@ -18,3 +18,8 @@ react
 Mongo db
 express.js
 Node.js
+//Backend Languages
+Python->Django
+Java->spring
+Javascript->Node.js,express.js
+//By Coding Ninja
